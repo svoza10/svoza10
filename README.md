@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<a href="https://www.linkedin.com/in/tneotia/">
+<a href="https://www.linkedin.com/in/adam-svozil%C3%ADk-460751145/">
   <img align="left" alt="Tanay's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://open.spotify.com/user/tanay-3">
-  <img align="left" alt="Tanay's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+<a href="https://www.facebook.com/adam.svozilik">
+  <img align="left" alt="Adam Svozilik Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
 </a>
-<a href="https://www.reddit.com/user/hlsjunior/">
-  <img align="left" alt="Tanay's Reddit" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg" />
-</a> 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=tneotia.tneotia)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=svoza10.visitor-badge)
 
 <br />
 
