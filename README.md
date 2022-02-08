@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hi I am Svoza <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=svoza10.svoza10)
 
 <a href="https://www.linkedin.com/in/adam-svozil%C3%ADk-460751145/">
   <img align="left" alt="Tanay's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
@@ -7,19 +9,16 @@
   <img align="left" alt="Adam Svozilik Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=tneotia.tneotia)
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=svoza10.visitor-badge)
-
+<br />
 <br />
 
-Hi! I'm Tanay Neotia, a self-taught mobile app developer from Kentucky, studying Mechanical Engineering at the Georgia Institute of Technology. 
+Hi! I'm Adam Svozilik, a self-taught developer from Czech republic, studying Software Engineering at the University of Tomas Bata in Zlin. And now working for travelling company Worldee like Mobile developer. 
 
-- 👨🏽‍💻 I’m currently working on [HLS Grades](https://github.com/tneotia/HLSGrades) and [BlueBubbles](https://github.com/BlueBubblesApp)
+- 👨🏽‍💻 I’m currently working on [Worldee](https://www.worldee.com/).
 - 👨🏽‍💻 I primarily code with Flutter in Dart
-- 🌱 I’m dabbling in Objective-C, HTML / JavaScript, and TypeScript
+- 🌱 I’m dabbling in C#, HTML / JavaScript, TypeScript, SQL and Angular.
+- ⚡ Fun fact: I'm interested in crypto, investment, games, and traveling.
 - 💬 Ask me about anything, I am happy to help
-- 📫 How to reach me: [tanay at neotia dot in](mailto://tanay@neotia.in)
-- 📝 [Resume](https://drive.google.com/file/d/1zlV1XXz1qV1TZeIYtkQ2bvopnYlI753g/view?usp=sharing)
 
 **Languages and Tools:**  
 
@@ -29,17 +28,18 @@ Hi! I'm Tanay Neotia, a self-taught mobile app developer from Kentucky, studying
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
 
 👨‍💻 **My Top Languages**
 
-<p> <img src="https://github-readme-stats.svoza10.vercel.app/api/top-langs?username=svoza10&theme=dark" alt="svoza10" /> </p>
+<p> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=svoza10&show_icons=true&theme=dark" alt="svoza10" /> </p>
 
 
 📈 **My GitHub Stats**
 
-<p> <img src="https://github-readme-stats.svoza10.vercel.app/api?username=svoza10&show_icons=true&count_private=true&theme=dark&include_all_commits=true" alt="svoza10" /> </p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=svoza10&show_icons=true&theme=dark)](https://github.com/svoza10/github-readme-stats)
   
 © 2022 GitHub, Inc.
 Terms
