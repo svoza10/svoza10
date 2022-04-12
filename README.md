@@ -6,7 +6,7 @@
   <img align="left" alt="Tanay's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.facebook.com/adam.svozilik">
-  <img align="left" alt="Adam Svozilik Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
+  <img align="left" alt="Adam Svozilik Facebook" width="22px" src="https://www.google.com/search?q=facebook+icon+svg&sxsrf=APq-WBuibuSZ6sQVWQfcS7XtBQlm0ldJKg:1649756578137&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj_1LiWno73AhXE5KQKHZnaD5cQ_AUoAXoECAEQAw&biw=1920&bih=948&dpr=1#imgrc=41D6RGEZFBZtGM" />
 </a>
 
 <br />
