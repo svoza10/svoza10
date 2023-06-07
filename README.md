@@ -35,7 +35,6 @@ Hi! I'm Adam Svozilik, a self-taught developer from Czech republic, studying Sof
 
 📈 **My GitHub Stats**
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=svoza10&show_icons=true&theme=dark&include_all_commits=true&count_private=true&orgs=worldee,Worldee-com)]
 ![](https://github-readme-stats.vercel.app/api?username=svoza10&theme=dark&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=svoza10&theme=dark)<br/>
   
