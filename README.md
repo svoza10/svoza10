@@ -1,10 +1,5 @@
 # Hi I am Svoza <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=svoza10.svoza10)
-
-<a href="https://www.linkedin.com/in/adam-svozil%C3%ADk-460751145/">
-  <img align="left" alt="Tanay's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
 <br />
 <br />
 
